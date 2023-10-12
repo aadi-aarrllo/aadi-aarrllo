@@ -1,8 +1,12 @@
-<h1 > Hi, I'm Aditya! <br/>
-  <a href="https://www.linkedin.com/in/aadi-aarrllo/">Cybersecurity Professional</a>, <a href="https://github.com/joshmadakor1">Web Developer</a>, <a href="https://github.com/joshmadakor1">Programmer</a></h1>
+<h1 align="center"> Hi, I'm Aditya! <br/>
+  <a align="center" href="https://github.com/aadi-aarrllo/Cyber Security/">Cybersecurity Professional</a>, <a href="https://github.com/aadi-aarrllo/Web Pages/">Web Developer</a>, <a href="https://github.com/aadi-aarrllo/Programs/">Programmer</a></h1>
 
 
-<h2 align="center"> <img width="30" height="30" align="center" src="https://img.icons8.com/nolan/64/FEE195/5912AB/diploma.png" alt="diploma"/> Certifications:</h2>
+<b><h2 align="center"> <img width="30" height="30" align="center" src="https://img.icons8.com/nolan/64/FEE195/5912AB/diploma.png" alt="diploma"/> Certifications:</h2></b>
+- [Ethical Hacking Essential (EHE)][EHE] by "EC-Council"
+- [Network Defense Essential (NDE)][NDE] by "EC-Council"
+- [Ethical Hacking][Ethical Hacking] by "_VOIS"
+
 
 
 <h2 align="center"> <img width="30" height="30" align="center" src="https://img.icons8.com/nolan/64/FEE195/5912AB/concept.png" alt="diploma"/> Projects:</h2>
@@ -13,11 +17,15 @@
   - [Web]
   - [Web]
 
+<br>
 
 - <b align="center"> <img width="30" height="30" align="center" src="https://img.icons8.com/nolan/64/FEE195/5912AB/cyber-security.png" alt="diploma"/> Cyber Security Projects:</b>
   - [Cyber]
   - [Cyber]
   - [Cyber]
+
+
+
 
 
 <h2 align="center"> <img width="30" height="30" align="center" src="https://img.icons8.com/nolan/64/FEE195/5912AB/technical-support.png" alt="diploma"/> Wanna connect with me:</h2>
@@ -41,10 +49,11 @@
 
 
 
-
-
-[instagram]: https://www.instagram.com/aadi.aarrllo/
-[facebook]: https://www.facebook.com/aadi.aarrllo/
-[linkedin]: https://linkedin.com/in/aad-aarrllo/
 [Web]: https://www.instagram.com/aadi.aarrllo/
+[linkedin]: https://linkedin.com/in/aad-aarrllo/
 [Cyber]: https://www.instagram.com/aadi.aarrllo/
+[facebook]: https://www.facebook.com/aadi.aarrllo/
+[instagram]: https://www.instagram.com/aadi.aarrllo/
+[EHE]: https://codered.eccouncil.org/certificate/afc0aa08-ba9e-4c12-b3c0-22fd9ed1076b?logged=false
+[NDE]: https://codered.eccouncil.org/certificate/ebf43ecf-0855-428b-a879-683504eb98f4?logged=false
+[Ethical Hacking]: https://voisfortech.com/mod/customcert/verify_certificate.php?contextid=67013&code=YvxYkSQIcL&qrcode=1
