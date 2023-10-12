@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Aditya! <br/>
-  <a align="center" href="https://github.com/aadi-aarrllo/Cyber Security/">Cybersecurity Professional</a>, <a href="https://github.com/aadi-aarrllo/Web Pages/">Web Developer</a>, <a href="https://github.com/aadi-aarrllo/Programs/">Programmer</a></h1>
+  <a align="center" href="https://github.com/aadi-aarrllo/Cyber-Security/">Cybersecurity Professional</a>, <a href="https://github.com/aadi-aarrllo/Web-Pages/">Web Developer</a>, <a href="https://github.com/aadi-aarrllo/Programs/">Programmer</a></h1>
 
 
 <b><h2 align="center"> <img width="30" height="30" align="center" src="https://img.icons8.com/nolan/64/FEE195/5912AB/diploma.png" alt="diploma"/> Certifications:</h2></b>
