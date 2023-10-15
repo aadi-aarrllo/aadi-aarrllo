@@ -2,6 +2,9 @@
   <a align="center" href="https://github.com/aadi-aarrllo/Cyber-Security/">Cybersecurity Professional</a>, <a href="https://github.com/aadi-aarrllo/Web-Pages/">Web Developer</a>, <a href="https://github.com/aadi-aarrllo/Programs/">Programmer</a></h1>
 
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="465d3176-7ecd-4de8-9677-0b547726849c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+
 <b><h2 align="center"> <img width="30" height="30" align="center" src="https://img.icons8.com/nolan/64/FEE195/5912AB/diploma.png" alt="diploma"/> Certifications:</h2></b>
 - [Ethical Hacking Essential (EHE)][EHE] by "EC-Council"
 - [Network Defense Essential (NDE)][NDE] by "EC-Council"
