@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 Welcome to My GitHub! 🚀</h1>
 
-<h3 align="center">I'm Aditya – A Cybersecurity & Web Development Enthusiast and Programmer</h3>
+<h3 align="center">I'm Aditya – iOS & Web Development Enthusiast and Programmer</h3>
 
 <div align="center">
   <a href="https://github.com/aadi-aarrllo/Cyber-Security">Cybersecurity</a> |
