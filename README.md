@@ -1,4 +1,4 @@
-# 👋 Welcome to My GitHub!
+# 👋 My Gittu!
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/123456789/987654321-abcdef.jpg" alt="Profile Banner" width="600"/>
