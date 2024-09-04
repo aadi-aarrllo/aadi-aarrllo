@@ -91,10 +91,10 @@ Hi, from a full-time student and part-time debugger. Pursuing my B.Tech at Galgo
 
 ## 👨🏻‍💻 Have a look
 
-<a href="https://github.com/anmolpant/Detecting-COVID-19-from-X-Ray">
+<a href="https://github.com/aadi-aarrllo/Artistico">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aadi-aarrllo&repo=Artistico" />
   </a>
-  <a href="https://github.com/anmolpant/ULMFiT-Sentiment">
+  <a href="https://github.com/aadi-aarrllo/InfyMed">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aadi-aarrllo&repo=InfyMed" />
   </a>
 
