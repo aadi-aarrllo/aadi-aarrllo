@@ -25,19 +25,18 @@ jobs:
         uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: aadi-aarrllo
+          github_user_name: aadi-aarrllo  # Make sure your GitHub username is correct
           outputs: |
-            dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=green&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-contribution-grid-snake.svg  # To generate the normal one as well if needed
         env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push the generated files to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.2.0  # Use the latest stable version
+        uses: crazy-max/ghaction-github-pages@v3.2.0
         with:
           target_branch: output
           build_dir: dist
-          commit_message: "🐍 Updated snake animations with latest contributions!"
+          commit_message: "🐍 Updated dark mode snake animations with latest contributions!"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
