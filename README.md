@@ -7,7 +7,7 @@
 
 <div align="center">
   
-![Banner](/assets/images/banner.png)
+<!-- ![Banner](/assets/images/banner.png) -->
 
 </div>
 
@@ -85,24 +85,24 @@ Hi, from a full-time student and part-time debugger. Pursuing my B.Tech at Galgo
 
 </div>
 
----
-
-> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
-
----
-
 <div align="center">
+
+---
+
+## 👨🏻‍💻 Have a look
 
 <a href="https://github.com/anmolpant/Detecting-COVID-19-from-X-Ray">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aadi-aarrllo&repo=Artistico" />
   </a>
   <a href="https://github.com/anmolpant/ULMFiT-Sentiment">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aadi-aarrllo&repo=HMS_Patient" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aadi-aarrllo&repo=InfyMed" />
   </a>
 
 </div>
 
 <div align="center">
+
+---
 
 ## 🐍 My Contributions
 
@@ -120,6 +120,10 @@ Hi, from a full-time student and part-time debugger. Pursuing my B.Tech at Galgo
 
 ![aadi-aarrllo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aadi-aarrllo&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
 </div>
+
+---
+
+> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
 
 ---
 
