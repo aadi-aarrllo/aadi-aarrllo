@@ -116,7 +116,6 @@ Hi, from a full-time student and part-time debugger. Pursuing my B.Tech at Galgo
 ---
   
 ![aadi-aarrllo's Stats](https://github-readme-stats.vercel.app/api?username=aadi-aarrllo&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
-
 ![aadi-aarrllo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aadi-aarrllo&theme=highcontrast&hide_border=false)
 
 ![aadi-aarrllo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aadi-aarrllo&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
