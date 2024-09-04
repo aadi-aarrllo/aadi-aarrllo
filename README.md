@@ -1,94 +1,147 @@
-# Aditya Kumar Gupta - Innovating Through Code 🎯💻
+<div align="center">
 
-Welcome to my GitHub repository, where innovation meets precision. Here, you'll find a collection of my work that reflects my dedication to crafting clean, efficient code. Whether you're exploring projects or seeking collaboration, I'm thrilled to share my journey with you.
+# Aditya Kumar Gupta
 
-## 👨‍💻 About Me
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
 
-I'm Aditya Kumar Gupta, a passionate Computer Science student with a strong focus on iOS development. As I pursue my B.Tech at Galgotias University, I've honed my skills in creating user-friendly, responsive applications that solve real-world problems.
+<div align="center">
+  
+![Banner](/assets/images/banner.png)
 
-- **🎓 Education:** 
-  - **B.Tech in Computer Science** - Galgotias University (Expected Sept 2025)
-  - **High School** - Aditya Birla Intermediate College (Completed 2021)
-- **📈 GPA:** 7.8/10 (B.Tech), 7.5/7.5 (High School)
-- **💡 Philosophy:** Writing code is like writing poetry—clarity, elegance, and impact are key.
+</div>
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<picture>
+<a href="https://github.com/aadi-aarrllo.png" alt="Developer">
+<img src="https://images.weserv.nl/?url=https://github.com/aadi-aarrllo.png?v=4&h=310&w=310&fit=cover&mask=circle" align="right" width="315">
+</a>
+</picture>
+</div>
+
+```js
+"use creativity";
+import { Person } from "india";
+
+new Person({
+  name: "Aditya Kumar Gupta",
+  title: "iOS Developer (Code Whisperer Extraordinaire)",
+  email: "connect.aadi@proton.me",
+  website: "https://github.com/aadi-aarrllo",
+  junior: !!false,  // Because I'm done being junior!
+  coffeeLevel: "Always full",  // Fuel for debugging
+  skills: ["Swift", "SwiftUI", "Turning coffee into code"],
+  funFact: "Once debugged code at 3 AM and it actually worked",
+}).introduce();
+```
+```
+D:\lab\aadi-aarrllo> node index.js
+Hi, I’m Aditya Kumar Gupta, an iOS Developer from India.
+My code ompiles (most of the time) and still manage to sleep at night.
+```
+
+Hi, from a full-time student and part-time debugger. Pursuing my B.Tech at Galgotias University, I’ve developed a passion for iOS development and an unhealthy obsession with getting that one `for` loop to work. When I’m not arguing with my IDE, I’m busy crafting user-friendly apps that (hopefully) work on the first try. If you’re here to check out my work, collaborate, or just witness the magic that happens when code finally compiles, you’re in the right repo.
+
+---
+
+> _"Coding feels like being a magician who messed with time coz one tiny change in the past, and suddenly your entire future’s broken, but everyone still expects you to pull a rabbit out of your hat."_ ~Of Course Me
+
+---
+
+<div align="center">
 
 ## 🛠️ Skills & Expertise
 
 **iOS Development:**
-- ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=flat)
-- ![SwiftUI](https://img.shields.io/badge/-SwiftUI-000000?logo=swift&logoColor=white&style=flat)
-- ![UIKit](https://img.shields.io/badge/-UIKit-2396F3?logo=swift&logoColor=white&style=flat)
-- ![Xcode](https://img.shields.io/badge/-Xcode-1575F9?logo=xcode&logoColor=white&style=flat)
-- ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
+
+![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=flat)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-000000?logo=swift&logoColor=white&style=flat)
+![UIKit](https://img.shields.io/badge/-UIKit-2396F3?logo=swift&logoColor=white&style=flat)
+![Xcode](https://img.shields.io/badge/-Xcode-1575F9?logo=xcode&logoColor=white&style=flat)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
 
 **Programming Languages:**
-- ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat)
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 
 **Development Tools:**
-- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-- ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
-- ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black&style=flat)
-- ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat)
+
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black&style=flat)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat)
 
 **Frameworks & Libraries:**
-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
-- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+
+</div>
+
+---
 
 > _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
 
-## 💼 Professional Experience
+---
 
-### iOS Application Developer Intern @ Infosys (Jan 2024 - June 2024)
-- **🏥 Hospital Management System App:** Played a pivotal role in the development of a comprehensive hospital management application, integrating user authentication, appointment scheduling, and real-time notifications.
-- **Tech Stack:** SwiftUI, Firebase, MapKit, EventKit.
-- **Role:** Full-stack iOS Developer, delivering solutions that align with industry best practices.
+<div align="center">
 
-## 🌟 Featured Projects
+<a href="https://github.com/anmolpant/Detecting-COVID-19-from-X-Ray">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aadi-aarrllo&repo=Artistico" />
+  </a>
+  <a href="https://github.com/anmolpant/ULMFiT-Sentiment">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aadi-aarrllo&repo=HMS_Patient" />
+  </a>
 
-### **Artistico | Team Brainiacs**
-- **Description:** A pioneering iOS app designed for visual artists to connect, showcase their work, and participate in challenges. It’s where art meets technology.
-- **Technologies:** UIKit, Firebase, MessageKit
-- **Outcome:** Successfully created a thriving platform that encourages artistic expression and community engagement.
+</div>
 
-### **Hospital Management System | Infosys**
-- **Description:** Developed two applications for the hospital ecosystem—one for administrators and another for patients—each tailored for specific user needs.
-- **Technologies:** SwiftUI, Firebase, MapKit, EventKit
-- **Outcome:** Streamlined hospital operations and enhanced patient care through intuitive interfaces and reliable back-end systems.
+<div align="center">
 
-### **My Portfolio**
-- **Description:** A personal web portfolio highlighting my skills, projects, and professional journey. Designed for both aesthetic appeal and technical functionality.
-- **Technologies:** HTML, CSS, JavaScript, Bootstrap
-- **Deployment:** Continuous deployment via Netlify
+## 🐍 My Contributions
 
-### **NewsHub | Team Brainiacs**
-- **Description:** A real-time news platform with a focus on user experience and responsiveness. Designed for web and Android, it keeps users informed with the latest updates.
-- **Technologies:** HTML, CSS, JavaScript, Bootstrap, Java, Kotlin
-- **Outcome:** Delivered a seamless experience across platforms, integrating real-time data efficiently.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/aadi-aarrllo/aadi-aarrllo/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/aadi-aarrllo/aadi-aarrllo/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://github.com/aadi-aarrllo/aadi-aarrllo/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
-## 🎯 Algorithmic Challenges
 
-- **LeetCode Rank:** 27,98,838 (Climbing the ranks, one problem at a time!)
-- **Solved:** 100+ Medium/Hard DSA problems, refining my algorithmic thinking and problem-solving skills.
+---
+  
+![aadi-aarrllo's Stats](https://github-readme-stats.vercel.app/api?username=aadi-aarrllo&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
+![aadi-aarrllo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aadi-aarrllo&theme=highcontrast&hide_border=false)
 
-## 🐍 Contribution Snake
+![aadi-aarrllo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aadi-aarrllo&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
+</div>
 
-![Contribution Snake](https://github.com/aadi-aarrllo/aadi-aarrllo/blob/output/github-contribution-grid-snake.svg)
+---
 
 ## 📫 Let’s Connect!
 
 I'm always open to discussing new ideas, potential collaborations, or simply sharing insights about the latest trends in technology.
+Feel free to reach out—whether it’s about code, collaboration, or just to share a great programming joke!
 
-- **GitHub:** [aadi-aarrllo](https://github.com/aadi-aarrllo)
-- **LinkedIn:** [aadi-aarrllo](https://linkedin.com/in/aadi-aarrllo)
-- **Email:** [connect.aadi@proton.me](mailto:connect.aadi@proton.me)
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/aadi-aarrllo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aadi-aarrllo)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:connect.aadi@proton.me)
+
+</div>
 
 ---
 
-Feel free to reach out—whether it’s about code, collaboration, or just to share a great programming joke!
+<div align="center">
+
+![VisitorCount](https://profile-counter.glitch.me/{aadi-aarrllo}/count.svg)
+
+</div>
 
 ---
