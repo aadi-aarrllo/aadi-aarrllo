@@ -1,5 +1,7 @@
 <div align="center">
 
+[Check out my GitHub Stats](./myGithubStats.md)
+
 # Aditya Kumar Gupta
 
 <!--x axis divider-->
