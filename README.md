@@ -5,18 +5,9 @@
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
-<div align="center">
-  
-<!-- ![Banner](/assets/images/banner.png) -->
-
-</div>
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
 <picture>
 <a href="https://github.com/aadi-aarrllo.png" alt="Developer">
-<img src="https://images.weserv.nl/?url=https://github.com/aadi-aarrllo.png?v=4&h=310&w=310&fit=cover&mask=circle" align="right" width="315">
+<img src="./Readme_Stuffs/Angry_Raccoon_Sticker-removebg.png" align="right" width="315">
 </a>
 </picture>
 </div>
@@ -148,8 +139,8 @@ Feel free to reach out—whether it’s about code, collaboration, or just to sh
 
 ![VisitorCount](https://profile-counter.glitch.me/{aadi-aarrllo}/count.svg)
 
+[GitHub Stats](./myGithubStats.md)
+
 </div>
 
 ---
-
-- [GitHub Stats](./myGithubStats.md)
