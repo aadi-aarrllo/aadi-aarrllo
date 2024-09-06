@@ -2,9 +2,6 @@
 
 # Aditya Kumar Gupta
 
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
 <picture>
 <a href="https://github.com/aadi-aarrllo.png" alt="Developer">
 <img src="./Readme_Stuffs/Angry_Raccoon_Sticker-removebg.png" align="right" width="315">
